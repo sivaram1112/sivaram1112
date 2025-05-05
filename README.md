@@ -2,7 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/e15b2d9f5b3cb21d95455de76e261ea03f10e05a582aead6d3d883c4fd182f52/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e664b6a3463455471394d466970384263684a48514a77486148613f7069643d496d6744657426773d31383426683d31383426633d37266470723d312e33"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaram1112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaram1112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -32,6 +35,16 @@
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/e15b2d9f5b3cb21d95455de76e261ea03f10e05a582aead6d3d883c4fd182f52/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e664b6a3463455471394d466970384263684a48514a77486148613f7069643d496d6744657426773d31383426683d31383426633d37266470723d312e33"  />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sivaram1112/count.svg?"  />
 </div>
 
 ###
