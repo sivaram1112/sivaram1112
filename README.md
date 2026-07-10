@@ -1,8 +1,8 @@
 <h2 align="left">
-Hi,My name is Sivaram. I recently completed my Bachelor's degree in Computer Science and Engineering from Godavari Institute of Engineering and Technology.
-During my academic journey, I completed two internships. My first internship was in Generative AI at AIMERS. During this internship, I worked on several projects. One of my major projects was an Object Detection System using the YOLOv8 model. This project detects objects in images and has real-world applications such as traffic monitoring and traffic signal management.
-My second internship was in Android App Development. During this internship, I developed a QR Code application that can generate and scan QR codes. The scanned data is automatically stored in Firebase, making it easy to manage and retrieve the information.
-I am proficient in Java, Python, and SQL. I also have knowledge of front-end technologies, back-end development, and database management. I enjoy learning new technologies and building practical applications that solve real-world problems.</h2>
+<p>Hi,My name is Sivaram. I recently completed my Bachelor's degree in Computer Science and Engineering from Godavari Institute of Engineering and Technology.</p>
+<p>During my academic journey, I completed two internships. My first internship was in Generative AI at AIMERS. During this internship, I worked on several projects. One of my major projects was an Object Detection System using the YOLOv8 model. This project detects objects in images and has real-world applications such as traffic monitoring and traffic signal management.</p>
+<p>My second internship was in Android App Development. During this internship, I developed a QR Code application that can generate and scan QR codes. The scanned data is automatically stored in Firebase, making it easy to manage and retrieve the information.</p>
+<p>I am proficient in Java, Python, and SQL. I also have knowledge of front-end technologies, back-end development, and database management. I enjoy learning new technologies and building practical applications that solve real-world problems.</p></h2>
 
 ###
 
