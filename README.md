@@ -1,4 +1,8 @@
-<h2 align="left">Hi, I'm Guttula Venkata Siva Ram, a passionate Computer Science student currently in my 3-2 semester. I am also undergoing training in Java and AWS, gaining hands-on experience with various cloud services. My technical skills include Java and basic Python for programming, along with HTML and CSS for web development. Additionally, I have experience with Git and GitHub for version control. I am always eager to learn new technologies, solve real-world problems, and develop efficient solutions. I am enthusiastic about collaborating with others and contributing to open-source projects to enhance my knowledge and skills.</h2>
+<h2 align="left">
+Hi,My name is Sivaram. I recently completed my Bachelor's degree in Computer Science and Engineering from Godavari Institute of Engineering and Technology.
+During my academic journey, I completed two internships. My first internship was in Generative AI at AIMERS. During this internship, I worked on several projects. One of my major projects was an Object Detection System using the YOLOv8 model. This project detects objects in images and has real-world applications such as traffic monitoring and traffic signal management.
+My second internship was in Android App Development. During this internship, I developed a QR Code application that can generate and scan QR codes. The scanned data is automatically stored in Firebase, making it easy to manage and retrieve the information.
+I am proficient in Java, Python, and SQL. I also have knowledge of front-end technologies, back-end development, and database management. I enjoy learning new technologies and building practical applications that solve real-world problems.</h2>
 
 ###
 
